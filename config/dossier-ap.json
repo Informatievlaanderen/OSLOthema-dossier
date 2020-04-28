@@ -1,6 +1,6 @@
 [
   {
-    "name": "dossier",
+    "name": "dossier-ap",
     "type": "ap",
     "title" : "Dossier",
     "eap": "OSLO-Dossier.eap",
