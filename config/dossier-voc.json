@@ -1,8 +1,8 @@
 [
   {
-    "name": "dossier",
+    "name": "dossier-voc",
     "type": "voc",
-    "title" : "dossier",
+    "title" : "OSLO-Dossier",
     "eap": "OSLO-Dossier.eap",
     "diagram": "OSLO-Dossier",
     "template": "dossier-voc.j2",
