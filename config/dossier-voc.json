@@ -3,7 +3,7 @@
     "name": "dossier-voc",
     "type": "voc",
     "title" : "Dossier",
-    "eap": "OSLO-Dossier.eap",
+    "eap": "OSLO-Dossier-VOC.eap",
     "diagram": "OSLO-Dossier",
     "template": "dossier-voc.j2",
     "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
