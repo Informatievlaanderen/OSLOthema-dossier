@@ -1,0 +1,10 @@
+#312: ok, Object (van OSLO-Generiek) is wel gemapt op prov#Entity
+#313: de relatie Stuk beschrijft Activiteit is er nu niet. Willen we die toevoegen?
+#314: ok
+#315: ok, gedisambigueerd
+#316: ok, gedisambigueerd
+#317: ok
+#329: ok, zeker dat er niet minstens 1 Procedurestap aan een Zaak verbonden moet zijn?
+#330: ok, attribuut optioneel gemaakt
+#333: toolchain issue, gelogd
+#344: nog te bespreken in de webinar?
