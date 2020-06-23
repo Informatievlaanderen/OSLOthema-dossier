@@ -1,0 +1,19 @@
+[
+  {
+    "name": "dossier-voc-20200624",
+    "type": "voc",
+    "title" : "OSLO-Dossier",
+    "eap": "OSLO-Dossier-VOC-20200624.eap",
+    "diagram": "OSLO-Dossier",
+    "template": "dossier-voc.j2",
+    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
+    "publication-date": "2020-06-24",
+    "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
+    "contributors-file": "stakeholders.csv",
+    "contributors-column": "Dossier",
+    "site": "site-skeleton/dossier",
+    "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-dossier/issues",
+    "standaardregisterurl": "https://data.vlaanderen.be/standaarden/",
+    "dependencies": []
+  }
+]
