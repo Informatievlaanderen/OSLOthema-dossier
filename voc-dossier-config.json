@@ -1,11 +1,12 @@
 {
   "naam": "Vocabularium Dossier",
+  "rapport" : "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/test/report/doc/vocabularium/dossier/erkendestandaard/2020-06-18/all-dossier-voc-20200618.jsonld",
   "verantwoordelijke_organisatie": "Agentschap Facilitair Bedrijf",
   "identificator_organisatie": "https://data.vlaanderen.be/doc/organisatie/OVO001834",
   "publicatiedatum": "TBD",
   "type_toepassing": "TBD",
   "categorie": "Vocabularium & applicatieprofielen",
-  "description_file" : "voc-dossier.md",
+  "beschrijving" : "voc-dossier.md",
   "specificatiedocument": [
     {
       "naam": "Vocabularium Dossier",
