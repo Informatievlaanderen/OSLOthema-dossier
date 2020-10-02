@@ -13,7 +13,7 @@
     "contributors-column": "Dossier",
     "site": "site-skeleton/dossier",
     "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-dossier/issues",
-    "standaardregisterurl": "https://data.vlaanderen.be/standaarden/",
+    "standaardregisterurl": "https://data.vlaanderen.be/standaarden/kandidaat-standaarden/applicatieprofiel-dossier/applicatieprofiel-dossier.html",
     "dependencies": []
   }
 ]
