@@ -1,12 +1,12 @@
 Voornaam;Naam;Affiliatie;E-mail;Website;Dossier;
 Michiel;De Keyzer;PwC;michiel.de.keyzer@pwc.com;http://www.pwc.be;E;
-Anouk;De Meester;Skryv;anouk.demeester@skryv.com;www.skryv.com;C;
+Anouk;De Meester;Skryv;anouk.demeester@skryv.com;https://www.skryv.com;C;
 Dimitri;Schepers;PwC;dimitri.schepers@pwc.com;http://www.pwc.be;E;
 Arne;De Proft;PwC;arne.de.proft@pwc.com;http://www.pwc.be;E;
 Roel;Devriendt;Departement CJM;roel.devriendt@cjsm.vlaanderen.be;https://overheid.vlaanderen.be/;C;
-Wim;Lambrecht;Cipal Schaubroeck;wim.lambrecht@cipalschaubroeck.be;www.cipalschaubrouck.be;C;
+Wim;Lambrecht;Cipal Schaubroeck;wim.lambrecht@cipalschaubroeck.be;https://www.cipalschaubroeck.be;C;
 Inge;Roosens;Onroerend Erfgoed;inge.roosens@vlaanderen.be;https://overheid.vlaanderen.be/;C;
-Steven;Staelens;Stad Gent;steven.staelens@stad.gent;www.stad.gent;C;
+Steven;Staelens;Stad Gent;steven.staelens@stad.gent;https://www.stad.gent;C;
 Toon;Timbermont;Skryv;toon.timbermont@skryv.com;https://www.skryv.com/;C;
 Geert;Van Haute;Departement Omgeving;geert.vanhaute@lne.vlaanderen.be;https://www.lne.be/;A;
 Bert;Van Kets;Informatie Vlaanderen;bert.vankets@kb.vlaanderen.be;https://overheid.vlaanderen.be/;C;
