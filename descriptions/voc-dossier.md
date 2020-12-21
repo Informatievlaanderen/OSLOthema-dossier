@@ -4,3 +4,7 @@ verschillende entiteiten, vereist een (meta)datastandaard die generiek genoeg is
 genoeg vrijheid laat voor context-specifieke implementaties. Als vertrekpunt voor deze oefening wordt gebruik gemaakt 
 van een bestaande ontologieën, voorbereid door Departement Omgeving en Het Facilitair Bedrijf en andere relevante bestaande
  semantische datastandaarden (FRBR, Dublin Core, PREMIS, EAD DBPedia, …).
+
+
+Deze versie van OSLO-Dossier is een gereduceerde versie die werd aangemaakt in het kader van de erkenning van OSLO Besluitvorming. Voor de volledige versie van OSLO Dossier, verwijzen we naar OSLO Dossier v2.0.0.
+                

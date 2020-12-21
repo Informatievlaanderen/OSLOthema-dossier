@@ -4,3 +4,5 @@ verschillende entiteiten, vereist een (meta)datastandaard die generiek genoeg is
 genoeg vrijheid laat voor context-specifieke implementaties. Als vertrekpunt voor deze oefening wordt gebruik gemaakt 
 van een bestaande ontologieën, voorbereid door Departement Omgeving en Het Facilitair Bedrijf en andere relevante bestaande
  semantische datastandaarden (FRBR, Dublin Core, PREMIS, EAD DBPedia, …).
+
+

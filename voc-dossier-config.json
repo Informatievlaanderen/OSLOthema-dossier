@@ -1,23 +1,28 @@
 {
   "naam": "Vocabularium Dossier",
-  "rapport" : "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/test/report/doc/vocabularium/dossier/erkendestandaard/2020-06-18/all-dossier-voc-20200618.jsonld",
+  "rapport": "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/test/report/doc/vocabularium/dossier/erkendestandaard/2020-06-18/all-dossier-voc-20200618.jsonld",
   "verantwoordelijke_organisatie": "Agentschap Facilitair Bedrijf",
   "identificator_organisatie": "https://data.vlaanderen.be/doc/organisatie/OVO001834",
   "publicatiedatum": "TBD",
   "type_toepassing": "TBD",
   "categorie": "Vocabularium & applicatieprofielen",
-  "beschrijving" : "voc-dossier.md",
+  "beschrijving": "voc-dossier.md",
   "specificatiedocument": [
     {
       "naam": "Vocabularium Dossier",
-      "waarde": "https://data.vlaanderen.be/ns/dossier/"
+      "waarde": "https://data.vlaanderen.be/doc/vocabularium/dossier/kandidaatstandaard/2020-06-01"
     },
     {
-      "naam" : "Applicatieprofiel Dossier",
-      "waarde" : "https://data.vlaanderen.be/doc/applicatieprofiel/dossier/"
+      "naam": "Applicatieprofiel Dossier",
+      "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/dossier/"
     }
   ],
-  "documentatie": [],
+  "documentatie": [
+    {
+      "naam": "Voorbeeld use cases",
+      "waarde": "OSLO-Dossier_html-documentatie_use-cases.pdf"
+    }
+  ],
   "charter": [
     {
       "naam": "Werkgroep Charter OSLO Dossier",
