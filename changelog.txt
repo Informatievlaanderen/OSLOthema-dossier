@@ -1,0 +1,8 @@
+2020-01-29
+AgentInRol (prov:Association) ipv Participatie (fixes #318)
+Stuk(onderdeel).informatieclassificatie optioneel gemaakt (fixes #330)
+Definitie van Stuk veranderd (fixes #344)
+Creatiedatum van stuk vervangen door datum (fixes #373)
+Superproperty van Procedurestap.start/einddatum verwijderd (fixes #374)
+Range van Activiteit.start/einddatum verbeterd naar DateTime (fixes #375)
+PROV URI voor Activiteit.start/einddatum overgenomen (fixes #376)
