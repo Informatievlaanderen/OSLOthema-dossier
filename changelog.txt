@@ -1,4 +1,4 @@
-2020-01-29
+2021-01-29
  - AgentInRol (prov:Association) ipv Participatie (fixes #318)
  - Stuk(onderdeel).informatieclassificatie optioneel gemaakt (fixes #330)
  - Definitie van Stuk veranderd (fixes #344)
@@ -7,3 +7,11 @@
  - Range van Activiteit.start/einddatum verbeterd naar DateTime (fixes #375)
  - prov:wasAssociatedWith toegevoegd
  - datum [1..*] toegevoegd op Stuk
+ 
+2021-02-02
+ - OSLO-Generiek::Object vervangen door rdfs:Resource
+ - dossier#Collectie.isNeerslagVan vervangen door dossier#isNeerslagVan
+ - Agent gealigneerd met prov#Agent
+ - range van role vervangen van skos:Concept naar prov#Role
+ - EntitityInfluence hernoemd naar EntiteitInvloed
+ - kardinaliteit auteur [0..*] gemaakt
