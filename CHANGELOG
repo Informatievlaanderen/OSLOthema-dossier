@@ -1,3 +1,9 @@
+2021-04-02
+ - attributen naam, bestandsformaat, bestandsgrootte en datum toegevoegd op Representatie (fixes #363)
+ - attibuut identificator toegevoegd op Zaak, Dossier, Stuk, Stukonderdeel en Representatie (fixes #364)
+ - attributen inhoud en taal toegevoegd op Stuk (fixes #365)
+ - range van rol aangepast van org#Role naar prov#Role (fixes #378)
+
 2021-01-29
  - AgentInRol (prov:Association) ipv Participatie (fixes #318)
  - Stuk(onderdeel).informatieclassificatie optioneel gemaakt (fixes #330)
