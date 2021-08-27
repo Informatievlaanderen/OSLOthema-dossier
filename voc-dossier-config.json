@@ -2,7 +2,7 @@
   "naam": "Vocabularium Dossier",
   "rapport": "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/test/report/doc/vocabularium/dossier/erkendestandaard/2020-06-01/all-dossier-voc.jsonld",
   "verantwoordelijke_organisatie": "Agentschap Facilitair Bedrijf",
-  "identificator_organisatie": "https://data.vlaanderen.be/doc/organisatie/OVO001834",
+  "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO001834",
   "publicatiedatum": "TBD",
   "type_toepassing": "TBD",
   "categorie": "Vocabularium",

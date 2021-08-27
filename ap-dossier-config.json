@@ -1,12 +1,12 @@
 {
   "naam": "Applicatieprofiel Dossier",
-  "rapport" : "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/test/report/doc/applicatieprofiel/dossier/kandidaatstandaard/2020-06-01/all-dossier-ap.jsonld",
+  "rapport": "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/test/report/doc/applicatieprofiel/dossier/kandidaatstandaard/2020-06-01/all-dossier-ap.jsonld",
   "verantwoordelijke_organisatie": "Agentschap Facilitair Bedrijf",
-  "identificator_organisatie": "https://data.vlaanderen.be/doc/organisatie/OVO001834",
+  "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO001834",
   "publicatiedatum": "TBD",
   "type_toepassing": "TBD",
   "categorie": "Applicatieprofiel",
-  "beschrijving" : "ap-dossier.md",
+  "beschrijving": "ap-dossier.md",
   "specificatiedocument": [
     {
       "naam": "Applicatieprofiel Dossier",
