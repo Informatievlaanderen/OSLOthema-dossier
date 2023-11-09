@@ -2,18 +2,18 @@
   {
     "name": "dossier",
     "type": "voc",
-    "title" : "OSLO Dossier",
+    "title": "OSLO Dossier",
     "eap": "OSLO-Dossier.eap",
     "diagram": "OSLO-Dossier-VOC",
     "template": "dossier-voc.j2",
-    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/KandidaatStandaard",
-    "publication-date": "2023-04-01",
+    "publication-state": "https://data.vlaanderen.be/id/concept/StandaardStatus/ErkendeStandaard",
+    "publication-date": "2023-09-25",
     "license": "https://data.vlaanderen.be/id/licentie/modellicentie-gratis-hergebruik/v1.0",
     "contributors-file": "stakeholders.csv",
     "contributors-column": "Dossier",
     "site": "site-skeleton/dossier",
     "feedbackurl": "https://github.com/Informatievlaanderen/OSLOthema-dossier/issues",
-    "standaardregisterurl": "https://data.vlaanderen.be/standaarden/kandidaat-standaarden/vocabularium-dossier-v2.0.0/vocabularium-dossier-v2.0.0.html",
+    "standaardregisterurl": "https://data.vlaanderen.be/standaarden/erkende-standaard/vocabularium-dossier.html",
     "dependencies": []
   }
 ]
