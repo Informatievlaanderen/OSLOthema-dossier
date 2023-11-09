@@ -1,25 +1,23 @@
 {
   "naam": "Applicatieprofiel Dossier",
-  "rapport": "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/production/report/doc/applicatieprofiel/dossier/kandidaatstandaard/2020-10-01/all-dossier-ap.jsonld",
+  "rapport": "",
   "verantwoordelijke_organisatie": "Agentschap Facilitair Bedrijf",
   "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO001834",
-  "publicatiedatum": "2021-04-22",
-  "type_toepassing": "TBD",
+  "publicatiedatum": "2023-09-25",
+  "type_toepassing": "Aanbevolen (vrijwillig)",
   "categorie": "Applicatieprofiel",
   "beschrijving": "ap-dossier.md",
   "specificatiedocument": [
     {
       "naam": "Applicatieprofiel Dossier",
-      "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/dossier/"
-    },
-    {
-      "naam": "Vocabularium Dossier",
-      "waarde" : "https://data.vlaanderen.be/ns/dossier/"
+      "waarde": "https://data.vlaanderen.be/doc/applicatieprofiel/dossier"
     }
   ],
   "documentatie": [
-    {"naam": "Voorbeeld use cases",
-    "waarde": "OSLO-Dossier_html-documentatie_use-cases.pdf"}
+    {
+      "naam": "Voorbeeld use cases",
+      "waarde": "OSLO-Dossier_html-documentatie_use-cases.pdf"
+    }
   ],
   "charter": [
     {
@@ -82,6 +80,6 @@
   "functioneel_toepassingsgebied": "Semantische standaard voor informatie met dossieren.",
   "organisatorisch_werkingsgebied": "Vlaamse en lokale overheden",
   "datum_van_aanmelding": "14 maart 2019",
-  "erkenning_werkgroep_datastandaarden": "10 oktober 2020",
-  "erkenning_stuurgroep": "22 april 2021"
+  "erkenning_werkgroep_datastandaarden": "TBD",
+  "erkenning_stuurgroep": "25 september 2023"
 }
