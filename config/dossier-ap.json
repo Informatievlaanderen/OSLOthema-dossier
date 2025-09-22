@@ -1,6 +1,6 @@
 [
   {
-    "name": "dossier-ap",
+    "name": "dossier",
     "type": "ap",
     "title": "OSLO Dossier - Applicatieprofiel",
     "eap": "OSLO-Dossier.eap",
@@ -16,4 +16,5 @@
     "standaardregisterurl": "https://data.vlaanderen.be/standaarden/applicatieprofiel-dossier/",
     "dependencies": []
   }
+
 ]
